@@ -23,6 +23,32 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 
 𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 : 𝐛𝐡𝐚𝐬𝐤𝐚𝐫𝐭155@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
+# Pinned Repositories
+
+<a href="https://github.com/BhaskarThakur1997/smart-attendance-system">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BhaskarThakur1997&repo=smart-attendance-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/BhaskarThakur1997/movie-recommendation-system">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BhaskarThakur1997&repo=movie-recommendation-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/BhaskarThakur1997/Data-Structure-Using-c-">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BhaskarThakur1997&repo=Data-Structure-Using-c-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+# GitHub Stats
+
+<a href="https://github.com/BhaskarThakur1997">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarThakur1997&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/BhaskarThakur1997">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=BhaskarThakur1997&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
+
 # 📣 How about an Office quote before you go?
 Shut up about the sun. SHUT UP ABOUT THE SUN!
 
