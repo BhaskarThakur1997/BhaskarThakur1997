@@ -20,4 +20,4 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 : 𝐛𝐡𝐚𝐬𝐤𝐚𝐫𝐭155@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
 💼 LinkedIn: https://linkedin.com/in/thakurbhaskar
-Twitter: https://twitter.com/thakurbhaskar8
+
