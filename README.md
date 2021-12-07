@@ -74,9 +74,9 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 </details>
 
 # 📣 How about an Office quote before you go?
-Shut up about the sun. SHUT UP ABOUT THE SUN!
+I live by one rule: No office romances, no way. Very messy, inappropriate…no. But, I live by another rule: Just do it…Nike.
 
-- Gabe Lewis
+ – Michael Scott
 
 Quote requested from https://www.officeapi.dev/
 
