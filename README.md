@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Bhaskar Thakur and I'm a Software Developer/Salesforce Developer. I'm living in Delhi, India and currently working at Virtusa.
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thakurbhaskar8)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thakurbhaskar/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/bhaskar.thakur.142)
+
 # About, Me! 
 Passionate and enthusiastic Aspiring Product Manager seeking new opportunities to leverage my Data driven approach and Leadership skills for building impactful Products to empower consumers across the world and solve some of their biggest challenges.
 
@@ -27,6 +31,3 @@ Shut up about the sun. SHUT UP ABOUT THE SUN!
 Quote requested from https://www.officeapi.dev/
 
 Check back at the top of the hour for a new quote!
-
-💼 LinkedIn: https://linkedin.com/in/thakurbhaskar
-
