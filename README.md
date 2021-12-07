@@ -18,3 +18,6 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐮𝐬𝐬 𝐚𝐛𝐨𝐮𝐭 𝐡𝐨𝐰 𝐈 𝐜𝐚𝐧 𝐚𝐝𝐝 𝐯𝐚𝐥𝐮𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧.
 
 𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 : 𝐛𝐡𝐚𝐬𝐤𝐚𝐫𝐭155@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+
+💼 LinkedIn: https://linkedin.com/in/thakurbhaskar
+Twitter: https://twitter.com/thakurbhaskar8
