@@ -24,7 +24,7 @@ Shut up about the sun. SHUT UP ABOUT THE SUN!
 
 - Gabe Lewis
 
-Quote requested from https://officeapi.dev/api/quotes/random
+Quote requested from https://www.officeapi.dev/
 
 Check back at the top of the hour for a new quote!
 
