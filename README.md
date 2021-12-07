@@ -19,5 +19,14 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 
 𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐭 : 𝐛𝐡𝐚𝐬𝐤𝐚𝐫𝐭155@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
+# 📣 How about an Office quote before you go?
+Shut up about the sun. SHUT UP ABOUT THE SUN!
+
+- Gabe Lewis
+
+Quote requested from https://officeapi.dev/api/
+
+Check back at the top of the hour for a new quote!
+
 💼 LinkedIn: https://linkedin.com/in/thakurbhaskar
 
