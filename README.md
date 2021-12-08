@@ -73,11 +73,5 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 
 </details>
 
-# 📣 How about an Office quote before you go?
-I live by one rule: No office romances, no way. Very messy, inappropriate…no. But, I live by another rule: Just do it…Nike.
-
- – Michael Scott
-
-Quote requested from https://www.officeapi.dev/
-
-Check back at the top of the hour for a new quote!
+# Life Philosophy
+“If you don’t have any shadows, you’re not standing in the light.”
