@@ -75,6 +75,5 @@ I am a detailed-oriented Team Leader, an effective communicator, an enthusiastic
 
 # A Day Of My Life
 ![image](https://user-images.githubusercontent.com/48211637/145146300-3619074d-3708-495b-ad06-ce80729af380.png)
-
 # Life Philosophy
 “If you don’t have any shadows, you’re not standing in the light.”
