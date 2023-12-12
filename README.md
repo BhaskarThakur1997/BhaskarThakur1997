@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Bhaskar Thakur and I'm a Software Developer/Salesforce Developer. I'm living in Delhi, India and currently working at Virtusa.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thakurbhaskar8)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/thakurbhaskar8)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thakurbhaskar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=1CA2F1)](https://www.hackerrank.com/profile/bhaskart155)
 [![HackerEarth](https://img.shields.io/badge/HackeEarth-Profile-informational?style=flat&logo=hackerearth&logoColor=white&color=1CA2F1)](https://www.hackerearth.com/@bhaskar186)
