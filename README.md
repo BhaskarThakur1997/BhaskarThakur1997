@@ -9,6 +9,9 @@ My name is Bhaskar Thakur and I'm a Software Developer/Salesforce Developer. I'm
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thakurbhaskar8)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thakurbhaskar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=1CA2F1)](https://www.hackerrank.com/profile/bhaskart155)
+[![HackerEarth](https://img.shields.io/badge/HackeEarth-Profile-informational?style=flat&logo=hackerearth&logoColor=white&color=1CA2F1)](https://www.hackerearth.com/@bhaskar186)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=1CA2F1)](https://leetcode.com/bhaskart155/)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-Profile-informational?style=flat&logo=interviewbit&logoColor=white&color=1CA2F1)](https://www.interviewbit.com/profile/bhaskar-thakur)
 
 # About, Me! 
 Passionate and enthusiastic Aspiring Product Manager seeking new opportunities to leverage my Data driven approach and Leadership skills for building impactful Products to empower consumers across the world and solve some of their biggest challenges.
